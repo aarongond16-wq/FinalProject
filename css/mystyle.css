@@ -1,0 +1,71 @@
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height:100px;
+}
+
+body{
+    background-color: lightgray;
+   
+
+
+   
+
+
+
+}
+a href{
+  border: 10px solid #333; /* Thickness, Style, and Color */
+  margin: 0;               /* Removes default browser spacing */
+  min-height: 70vh;       /* Ensures border covers full height */
+  box-sizing: border-box;  /* Prevents border from adding to width */
+}
+.border-link {
+    border: 2px solid black;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+img{ 
+    display: block;
+    width:25%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: black;
+    color: white;
+    line-height: 25px;
+    /* position:fixed; */
+    bottom: 5px;
+
+
+}
+
+#viz1776360789243 object {
+    width: 500px !important;
+    height: 450px !important;
+}
+
+
+
+
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica
+}
+nav{
+    Background-color: lightgrey;
+    padding:10x;
+    overflow: hidden;
+}   
+nav a{
+    color: #333;
+    padding: 10px;
+    Text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    float: left;
+}
+nav a:hover{
+    background-color: #ccc;
